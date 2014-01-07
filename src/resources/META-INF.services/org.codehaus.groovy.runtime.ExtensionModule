@@ -1,0 +1,5 @@
+moduleName=test-module
+moduleVersion=0.1-SNAPSHOT
+extensionClasses=com.github.mperry.fg.ListExtension,com.github.mperry.fg.IntegerExtension
+staticExtensionClasses=com.github.mperry.fg.ListStaticExtension
+
